@@ -34,10 +34,7 @@ Here are some ideas to get you started:
 
 <br>
 
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=Muzaffar-Munir&show_icons=true&theme=radical&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Muzaffar-Munir&hide=css,html&theme=tokyonight">
-</p>
+
 
 
 <h3>To connect with me, </h3>
