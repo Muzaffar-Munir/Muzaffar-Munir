@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Mean stack
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 <?php=date('y')?> Goals: Contribute more to Open Source projects
 - 💬 Ask me about Nodejs,nestjs,mongodb,Angular,Frontend 
  
 <h3>Things I code with</h3>
